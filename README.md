@@ -8,9 +8,7 @@
 
 Here is a screenshot of the website being deployed, along with a link below:
 
-```md
-![Horiseon](assets/images/Horiseon Screenshot.png)
-```
+![Horiseon Landing Page](assets/images/Horiseon-Screenshot.png)
 
 [Horiseon](https://ccarver3434.github.io/Horiseon-Landing-Page/)
 
