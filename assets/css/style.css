@@ -76,13 +76,14 @@ p {
     margin-left: 25px;
 }
 
-
+/* Content Style Start*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits Style Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,6 +129,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Style Start */
 .footer {
     padding: 30px;
     clear: both;
